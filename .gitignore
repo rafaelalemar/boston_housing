@@ -1,0 +1,4 @@
+*.idea
+*.ipynb_checkpoints
+*.gdsheet
+/__pycache__
